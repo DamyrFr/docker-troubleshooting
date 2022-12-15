@@ -14,7 +14,12 @@ RUN apt update && apt install -y \
     iputils-ping \
     nmap \
     iproute2 \
-    mtr
+    mtr \
+    curl \
+    wget \
+    telnet \
+    netcat-openbsd
+
 RUN command rm -rf /var/cache
 
 CMD ["bash"]
