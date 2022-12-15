@@ -11,7 +11,10 @@ RUN apt update && apt install -y \
     tcpdump \
     strace \
     net-tools \
-    iputils-ping
+    iputils-ping \
+    nmap \
+    iproute2 \
+    mtr
 RUN command rm -rf /var/cache
 
 CMD ["bash"]
