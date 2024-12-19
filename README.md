@@ -1,3 +1,5 @@
+[![Docker](https://github.com/DamyrFr/docker-troubleshooting/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/DamyrFr/docker-troubleshooting/actions/workflows/docker-publish.yml)
+
 # docker-troubleshooting
 
 Simple CNI image based on `debian-testing` with debug / troubleshooting tools.
