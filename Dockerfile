@@ -19,6 +19,7 @@ RUN apt update && apt install -y \
     wget \
     telnet \
     default-mysql-client \
+    postgresql-client \
     netcat-openbsd
 
 RUN command rm -rf /var/cache
