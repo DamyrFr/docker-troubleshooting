@@ -1,4 +1,4 @@
-[![Docker](https://github.com/DamyrFr/docker-troubleshooting/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/DamyrFr/docker-troubleshooting/actions/workflows/docker-publish.yml)
+[![Docker](https://github.com/DamyrFr/docker-troubleshooting/actions/workflows/docker-publish.yml/badge.svg?branch=main)](https://github.com/DamyrFr/docker-troubleshooting/actions/workflows/docker-publish.yml)
 
 # docker-troubleshooting
 
