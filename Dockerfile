@@ -13,6 +13,8 @@ RUN apt update && apt install -y \
     net-tools \
     iputils-ping \
     nmap \
+    yq \
+    jq \
     iproute2 \
     mtr \
     curl \
